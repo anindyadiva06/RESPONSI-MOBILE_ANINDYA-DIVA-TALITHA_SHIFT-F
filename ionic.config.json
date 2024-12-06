@@ -1,0 +1,7 @@
+{
+  "name": "responsi_mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
