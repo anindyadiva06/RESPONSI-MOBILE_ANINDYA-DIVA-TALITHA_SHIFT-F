@@ -18,6 +18,7 @@
 ![image](https://github.com/user-attachments/assets/85b9b42e-0434-4d29-9785-5b26e5265641)
 
 **UPDATE**
+
 **Mengedit Informasi Data**
 ![image](https://github.com/user-attachments/assets/f8c1044f-5e54-4337-9b17-52d1d444e0ad)
 ![image](https://github.com/user-attachments/assets/f5eac28d-a5d8-4493-898d-57f7ffb0a39e)
@@ -29,6 +30,7 @@
 ![image](https://github.com/user-attachments/assets/dc89ab19-1683-4243-b029-d030a126d619)
 
 **DELETE**
+
 ![image](https://github.com/user-attachments/assets/c1d3c8cd-75f3-4b4b-9470-ddc46d37114b)
 ![image](https://github.com/user-attachments/assets/15d2bc52-22c8-4190-86cb-85c665f78193)
 
